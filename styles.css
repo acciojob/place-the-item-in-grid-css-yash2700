@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:grid;
+	background-color:blue;
+	width:200px;
+	grid-template-columns:100px 100px;
+	grid-template-rows:100px 100px;
+	
+	
+}
+.item{
+	background-color:tomato;
+}
